@@ -1,4 +1,6 @@
 # Text-Extractor
+_Text retrieval from images to .txt format_
+
 ## Version 1.0  
 Add Tesseract, OpenCV and GNU compiler executable's to system path variable for the Extractor to work.  <br/>
 Run on localhost preferably running on XAMPP.  <br/>
